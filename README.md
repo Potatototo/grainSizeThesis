@@ -15,6 +15,8 @@ Developed using the following libraries and versions.
 
 pip3 install -r requirements.txt
 
+or setup an environment using the Dockerfile
+
 # Documentation
 ## Grain Size Determination Tool
 The main program that will be used by the end user can be started with:
