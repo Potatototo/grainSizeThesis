@@ -1,10 +1,16 @@
 # Usage
 Developed using the following libraries and versions.
+
 • Python - 3.9.7
+
 • OpenCV - 4.5.3
+
 • NumPy - 1.20.3
+
 • Ray - 1.8.0
+
 • Ray Tune - 1.8.0
+
 • TensorBoard - 2.7.0
 
 pip3 install -r requirements.txt
