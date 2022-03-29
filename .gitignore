@@ -1,0 +1,15 @@
+## vscode
+.vscode
+
+## python
+__pycache__/
+*.py[cod]
+*$py.class
+
+## custom
+*.txt
+eval_*.csv
+*.tif
+*.png
+.mypy_cache
+docs/

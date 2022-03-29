@@ -1,0 +1,9 @@
+data       ,blur ,close_iter ,open_iter ,all_data ,old_data ,new_data ,validation
+all        ,35   ,2          ,6         ,2.97     ,2.75     ,3.70     ,
+old        ,43   ,4          ,10        ,5.51     ,1.95     ,12.62    ,
+new        ,33   ,2          ,6         ,3.0      ,3.41     ,2.72     ,
+
+oldsquared ,76   ,4          ,10        ,         ,1.95     ,         ,
+newsquared ,42   ,2          ,6         ,         ,         ,3.16     ,
+
+relative   ,     ,           ,          ,2.16     ,1.95     ,3.34     ,1.75
